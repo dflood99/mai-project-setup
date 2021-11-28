@@ -26,7 +26,7 @@ cd mai-project-setup
 docker build -t mai-project .
 ```
 
-#### 4. Run a Container
+#### 3. Run the Container
 
 This step will ensure the build has worked by running a container. Later we will run the simulator in this container.
 
