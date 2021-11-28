@@ -14,7 +14,7 @@ These steps should only have to be done once. Run the commands in the following 
 #### 1. Clone this repository
 
 ```
-git clone https://github.com/FT-Autonomous/f1tenth-ros-setup.git
+git clone https://github.com/dflood99/mai-project-setup.git
 ```
 
 #### 2. Build the Docker Image
